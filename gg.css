@@ -1,0 +1,60 @@
+.divi{
+	width: 200px;
+	height: 400px;
+	background-color: white;
+	position: relative;
+	border: 5px solid black;
+}
+
+.divi2{
+	width: 250px;
+	height: 455px;
+	background-color: white;
+	position: relative;
+	border: 5px solid black;
+	float: left;
+	left: 135px;
+	bottom: 365px;
+	
+}
+
+.d{
+	width: 100px;
+	height: 30px;
+	margin-left: 10px;
+}
+
+.g{
+ margin-left: 10px;
+}
+
+.h1{
+	margin-left: 10px;
+}
+
+.imhgg{
+	width: 125px;
+	height: 110px;
+}
+
+p{
+	font-size: 25px;
+	margin-left: 15px;
+}
+
+.bb{
+	width: 110px;
+	height: 102px;
+	margin-left: 60px;
+}
+
+.some{
+	margin-left: 10px;
+}
+
+.ghj{
+	width: 100px;
+	height: 100px;
+	margin-left: 60px;
+	margin-top: 2px;
+}
